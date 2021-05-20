@@ -1,0 +1,10 @@
+.image{
+    background-image: url("/images/registro_background.jpg");
+    opacity: 0.98;
+    background-position:center;
+}
+
+.container{
+    max-width: 600px;
+    margin-top: 100px;
+}
